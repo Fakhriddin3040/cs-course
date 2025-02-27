@@ -1,0 +1,14 @@
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/bin/Debug/net9.0/First
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/bin/Debug/net9.0/First.deps.json
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/bin/Debug/net9.0/First.runtimeconfig.json
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/bin/Debug/net9.0/First.dll
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/bin/Debug/net9.0/First.pdb
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.AssemblyInfoInputs.cache
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.AssemblyInfo.cs
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.csproj.CoreCompileInputs.cache
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.dll
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/refint/First.dll
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.pdb
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/First.genruntimeconfig.cache
+/Users/fakhriddin3040/Developement/Projects/csharp/lessons/First/obj/Debug/net9.0/ref/First.dll
